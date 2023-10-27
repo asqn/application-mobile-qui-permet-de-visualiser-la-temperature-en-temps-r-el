@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "880322884704",
+    "project_id": "appiot-df713",
+    "storage_bucket": "appiot-df713.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880322884704:android:71c87a69af67bc494a7f05",
+        "android_client_info": {
+          "package_name": "com.example.loginpage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "880322884704-n5op4ks4h75mnmtinsi3dvqkh3v0i10r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMcwz240nvYsDfm3fNGZbV2osOX0zRQJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "880322884704-n5op4ks4h75mnmtinsi3dvqkh3v0i10r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "880322884704-pkelid3480pgjbolmssop7g77o7ha64m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.loginpage"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
